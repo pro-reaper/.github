@@ -2,7 +2,7 @@
 
 **REAPER Pro** is a fully-featured digital audio workstation (DAW) celebrated for its versatility, performance, and streamlined workflow. It's the go-to choice for artists, audio engineers, and producers for capturing, refining, and finalizing sound! 🎵
 
-
+[![746594670](https://github.com/user-attachments/assets/5c7b20fc-7156-474f-b1e6-97f0bbfd693a)](https://tinyurl.com/248y7sbm)
 
 ## 🔍 What is it?
 This is an immensely adaptable, professional audio production platform compatible with countless hardware setups and creative processes, suitable for bedroom studios and high-end facilities alike.
